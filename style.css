@@ -1,5 +1,4 @@
 body{
-	font-family:fantasy;
 	background-color: #f3f3f3;
 	padding:0;
 	margin:0;
@@ -16,40 +15,53 @@ body{
 .main-nav{
 	background-image:url(https://www.jaarbeurs.nl/foto/agenda/zorgict.jpg);
 	background-repeat:no-repeat;
-	background-size:cover;	background-position:center -60px; padding: 100px 20px 0px 20px;
+	background-size:cover;
+	background-position:center -60px;
+	padding: 100px 20px 0px 20px;
 }
 
 .main-nav a{
 	display:inline-block;
-	border-radius: 100px 100px 100px 100px;
+	border-radius: 5px 0px 0px 0px;
 	border-bottom: 10px solid white;
-	         background-color:rgba(255, 255, 255, 0.64);
+	background-color:rgba(255, 255, 255, 0.64);
 	color:black;
 	text-decoration:none;
 	padding: 5px 10px;
 	position:relative;
-	top:10px;
+	top:-10px;
 	transition: top 300ms ease;
 }
 
 .main-nav a:hover{
-	top:0px;
-}
-
-#cast a:hover {
-  border-bottom: 2px solid green;
+	top:5px;
 }
 
 .page-content{
 	padding: 20px;
 }
 
-h1 {
-  margin: 20px -20px;
-       padding: 10px 20px;	
+h1{
+	background-color: #b68052;
+	margin: 20px;
+	padding: 10px 20px;
+	color: aliceblue;
 }
 
-.brown{
-  background-color: #b68052;
-  color: aliceblue;
+h2{
+  font-family:Georgia;
+}
+
+.top-nav ul{
+	list-style-type:none;
+}
+
+.top-nav ul li{
+	transition: all 300ms ease;
+	left:0px;
+	position:relative;
+}
+
+.top-nav ul li:hover{
+	left: 4px;
 }
