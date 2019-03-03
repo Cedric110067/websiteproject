@@ -3,7 +3,6 @@ body{
 	background-color: #f3f3f3;
 	padding:0;
 	margin:0;
-	background-coulour: none;
 }
 
 .page {
@@ -22,7 +21,7 @@ body{
 
 .main-nav a{
 	display:inline-block;
-	border-radius: 10px 10px 10px 10px;
+	border-radius: 100px 100px 100px 100px;
 	border-bottom: 10px solid white;
 	         background-color:rgba(255, 255, 255, 0.64);
 	color:black;
