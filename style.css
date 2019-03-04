@@ -23,9 +23,9 @@ body{
 .main-nav a{
 	display:inline-block;
 	border-radius: 5px 5px 5px 5px;
-	border-bottom: 10px solid white;
+	border-bottom: 10px solid #ffd603;
 	background-color:rgba(255, 255, 255, 0.64);
-	color:black;
+	color:#188ae0;
 	text-decoration:none;
 	padding: 5px 150px;
 	position:relative;
