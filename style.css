@@ -26,7 +26,7 @@ body{
 	border-radius: 5px 5px 5px 5px;
 	border-bottom: 10px solid #ffd603;
 	background-color:rgba(255, 255, 255, 0.64);
-	color:#188ae0;
+	color:#219fbd;
 	text-decoration:none;
 	padding: 5px 100px;
 	position:relative;
@@ -46,12 +46,12 @@ h1{
 	background-color: white;
 	margin: 20px;
 	padding: 10px 20px;
-	color:#188ae0;
+	color:#219fbd;
 ;
 }
 
 h2{
-  font-family:Georgia;
+  font-family:cursive;
 }
 
 .top-nav ul{
