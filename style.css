@@ -55,7 +55,9 @@ h1{
 }
 
 h2{
-  font-family:cursive;
+  	font-family:cursive;
+	margin: 20px;
+	padding: 10px 20px;
 }
 
 .top-nav ul{
